@@ -1,0 +1,22 @@
+/* this is a common style css */
+.max-width{
+    max-width: 1250px;
+}
+body{
+    font-family: 'EB Garamond', serif;
+    background: #F5F5F5; 
+}
+/* this is a top position 0 div  */
+.background-css{
+   background-color:  #1F0065;
+  
+}
+/* this is a nav loge-text color */
+.loge-text{
+    color: #1F0065;
+}
+
+/* this is a footer background-color */
+.background-bg{
+    background-color:#39004E;
+}
