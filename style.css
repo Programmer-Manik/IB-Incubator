@@ -16,6 +16,24 @@ body{
     color: #1F0065;
 }
 
+/* this is a main in frist div style */
+.background-css-main{
+    background-image: url(imgae/Rectangle\ 1.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+/* this is a main in promotion-section style */
+.background-prootion-main{
+    background-image: url(imgae/Rectangle\ 14.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+/* this is our servise section main */
+.css-background-s{
+    
+    background: linear-gradient(121.69deg, rgba(0, 109, 209, 0.15) 0%, rgba(255, 255, 255, 0.1) 100%);
+    box-shadow: 10px 16px 25px rgba(0, 0, 0, 0.08);
+}
 /* this is a footer background-color */
 .background-bg{
     background-color:#39004E;
